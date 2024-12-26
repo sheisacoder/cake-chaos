@@ -1,5 +1,5 @@
-# cake-chaos
-Cake Chaos 🍰☕
+# Cake Chaos 🍰☕
+
 Welcome to Cake Chaos!
 A fun and interactive game where you step into the shoes of a cake master. Your challenge? Assemble the perfect cakes by adding the right amount of ingredients—candles, berries, choco chips, and more—before time runs out! Speed and accuracy are your best friends as you race to fulfill as many orders as possible.
 
